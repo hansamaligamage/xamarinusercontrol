@@ -61,6 +61,3 @@ In main page, call the user control and pass parameters as below,
 
 </ContentPage>
 ```
-You can see the screen in Androd like this,
-
-
