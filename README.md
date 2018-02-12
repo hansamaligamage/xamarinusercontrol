@@ -4,6 +4,7 @@ Solution is built using Xamarin Forms
 
 A seperate Content View is created as LoginView as below.
 
+```html
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="UserControl.LoginView" x:Name="this">
@@ -14,4 +15,5 @@ A seperate Content View is created as LoginView as below.
         </StackLayout>
     </ContentView.Content>
 </ContentView>
+```
 
